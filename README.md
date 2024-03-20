@@ -1,9 +1,9 @@
-# \[Group name\]
+# \[CCC\]
 
 **Group members:**
-- A
-- B
-- C
+- Christian Dybvik Nielsen
+- Christian Højsgaard 
+- Christoffer Hvid Amstrup
 
 This repository contains  
 1. Inaugural project. 
