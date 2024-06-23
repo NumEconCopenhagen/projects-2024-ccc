@@ -13,5 +13,5 @@
 
 **Disclaimer on use of AI tools**
 
-As permitted we use AI tools to assist with our Python code throughtout all four projects. It has been common practice for us to use ChatGPT to help write the code, and then to read through the code, in order for us adjust it to fit our needs. We have not used AI tools to generate text and use this as economic interpretation/explanation.
+As permitted we use AI tools to assist with our Python code throughtout all four projects. It has been common practice for us to use ChatGPT to help write the code, and then to read through the code, in order for us adjust it to fit our needs. We have not used AI tools to generate and copy text to use as economic interpretations/explanations or other general understading of graphs etc.
 
