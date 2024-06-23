@@ -1,9 +1,9 @@
 # Group name: CCC
 
 **Group members:**
-- Christian Dybvik Nielsen
-- Christian Højsgaard 
-- Christoffer Hvid Amstrup
+- Christian Dybvik Nielsen (ltz302)
+- Christian Højsgaard (trx307)
+- Christoffer Hvid Amstrup (rmk577)
 
 **This repository contains**
 1. Inaugural project. 
